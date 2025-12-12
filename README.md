@@ -53,12 +53,6 @@ Amazon Sales Dataset (publicly available)
 
 ⚠️ Bottom 5 Products by Profit
 
-📷 Dashboard Preview
-
-(Upload your image here using this format)
-
-[](amazon_sales_dashboard.png)
-
 📚 Insights You Can Get
 
 Best performing markets and segments
